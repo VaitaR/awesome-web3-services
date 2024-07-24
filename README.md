@@ -13,6 +13,7 @@ A curated list of awesome Web3 services and tools for data analysts and Web3 pro
   - [Crypto Analytics](#crypto-analytics)
   - [Specialized APIs](#specialized-apis)
   - [Oracles](#oracles)
+  - [Blockchain Explorers](#blockchain-explorers)
   - [Trading Analytics Platforms](#trading-analytics-platforms)
 - [Contribution](#contribution)
 - [License](#license)
@@ -79,6 +80,12 @@ Oracles provide off-chain data to smart contracts.
 - [Chainlink](https://chain.link/) - Decentralized oracle network to provide reliable data to smart contracts.
 - [Band Protocol](https://bandprotocol.com/) - Cross-chain data oracle platform.
 - [API3](https://api3.org/) - Decentralized APIs for Web3 without intermediaries.
+
+### Blockchain Explorers
+Blockchain explorers provide detailed information and insights into blockchain transactions, addresses, blocks, and more.
+- [Etherscan](https://etherscan.io/) - A popular Ethereum blockchain explorer that provides comprehensive data on transactions, addresses, tokens, and smart contracts.
+- [BlockScout](https://blockscout.com/) - An open-source blockchain explorer that supports multiple Ethereum-based networks.
+- [RouteScan](https://routescan.io/) - unified explorerfor over 43 blockchains
 
 ### Trading Analytics Platforms
 Platforms that provide insights, data analysis, and tools for trading cryptocurrencies.
