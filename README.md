@@ -8,7 +8,7 @@ A curated list of awesome Web3 services and tools for data analysts and Web3 pro
   - [RPC Services](#rpc-services)
   - [Indexers and Similar Services](#indexers-and-similar-services)
   - [Analytical Platforms](#analytical-platforms)
-  - [Web3 Product Analytics](#product-analytics)
+  - [Web3 Product Analytics](#web3-product-analytics)
   - [Crypto Analytics and Dashboards](#crypto-analytics-and-dashboards)
   - [Specialized APIs](#specialized-apis)
   - [Oracles](#oracles)
