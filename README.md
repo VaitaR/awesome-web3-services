@@ -52,11 +52,15 @@ Product analytics services provide insights and data analytics for web3 product 
 - [Cookie3](https://cookie3.com/) - Your gateway to MarketingFi.
 
 ### Crypto Dashboards
-Tools for creating datavizes on ready onchain data.
+Tools for creating dataviz dashboards on ready on-chain data.
 - [Dune](https://dune.com/) - Community-driven platform for blockchain data analysis and visualization.
+- [Footprint](https://www.footprint.network/) - Comprehensive analytics platform with customizable dashboards for visualizing on-chain data.
+- [Flipside Crypto](https://flipsidecrypto.xyz/) - Blockchain analytics platform providing insights and visualizations from on-chain data.
   
 ### Crypto Analytics
 Services for in-depth crypto analysis.
+- [Token Terminal](https://tokenterminal.com/) - Financial metrics and KPIs for crypto projects, providing insights into project performance and trends.
+- [DeFi Lama](https://defillama.com/) - Decentralized finance analytics platform for tracking and comparing DeFi protocols and projects.
 - [Messari](https://messari.io/) - Crypto research, data, and tools for institutional investors.
 - [CryptoQuant](https://cryptoquant.com/) - On-chain and market data analytics for crypto assets.
 
