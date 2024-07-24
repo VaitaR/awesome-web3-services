@@ -39,6 +39,7 @@ Indexers provide organized and searchable access to blockchain data.
 - [The Graph](https://thegraph.com/) - Decentralized indexing protocol for querying blockchain data.
 - [Goldsky](https://goldsky.com/) - A data infrastructure platform for indexing and querying blockchain data efficiently.
 - [Sentio](https://sentio.xyz/) - A blockchain data indexing service for quick data access.
+- [Alchemy Subgraphs](https://www.alchemy.com/subgraphs) - A service provided by Alchemy for creating and managing subgraphs to index blockchain data.
 
 ### Analytical Platforms
 These platforms offer tools and insights for blockchain data analysis.
