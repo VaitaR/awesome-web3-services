@@ -15,6 +15,7 @@ Welcome to the Awesome Web3 Services repository! This page is dedicated to provi
   - [Specialized APIs](#specialized-apis)
   - [Oracles](#oracles)
   - [Blockchain Explorers](#blockchain-explorers)
+  - [Decentralized Storage](#decentralized-storage)
   - [Trading Analytics Platforms](#trading-analytics-platforms)
 - [Contribution](#contribution)
 - [License](#license)
@@ -84,6 +85,13 @@ Blockchain explorers provide detailed information and insights into blockchain t
 - [Etherscan](https://etherscan.io/) - A popular Ethereum blockchain explorer that provides comprehensive data on transactions, addresses, tokens, and smart contracts.
 - [BlockScout](https://blockscout.com/) - An open-source blockchain explorer that supports multiple Ethereum-based networks.
 - [RouteScan](https://routescan.io/) - unified explorerfor over 43 blockchains
+
+### Decentralized Storage
+Services for decentralized file storage and data management.
+- [IPFS](https://ipfs.io/) - The InterPlanetary File System (IPFS) is a protocol and network designed to create a peer-to-peer method of storing and sharing hypermedia in a distributed file system. It aims to make the web faster, safer, and more open.
+- [Arweave](https://www.arweave.org/) - Arweave is a decentralized storage network that provides permanent data storage by using a unique blockweave technology. It ensures that data remains accessible indefinitely without requiring continuous maintenance.
+- [Filecoin](https://filecoin.io/) - Filecoin is a decentralized storage network built on top of IPFS. It incentivizes users to rent out their unused hard drive space and provides a robust and efficient way to store large amounts of data securely and affordably.
+
 
 ### Trading Analytics Platforms
 Platforms that provide insights, data analysis, and tools for trading cryptocurrencies.
