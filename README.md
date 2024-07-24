@@ -47,9 +47,8 @@ These platforms offer tools and insights for blockchain data analysis.
 
 ### Web3 Product Analytics
 Product analytics services provide insights and data analytics for web3 product and marketing teams.
-
-- **[Formo](https://formo.com/)** - Product analytics for web3 product and marketing teams.
-- **[Cookie3](https://cookie3.com/)** - Your gateway to MarketingFi.
+- [Formo](https://formo.so/) - Product analytics for web3 product and marketing teams.
+- [Cookie3](https://cookie3.com/) - Your gateway to MarketingFi.
 
 ### Crypto Analytics and Dashboards
 Dashboards and tools for in-depth crypto analysis.
