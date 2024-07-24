@@ -8,6 +8,7 @@ A curated list of awesome Web3 services and tools for data analysts and Web3 pro
   - [RPC Services](#rpc-services)
   - [Indexers and Similar Services](#indexers-and-similar-services)
   - [Analytical Platforms](#analytical-platforms)
+  - [Web3 Product Analytics](#product-analytics)
   - [Crypto Analytics and Dashboards](#crypto-analytics-and-dashboards)
   - [Specialized APIs](#specialized-apis)
   - [Oracles](#oracles)
@@ -43,6 +44,12 @@ These platforms offer tools and insights for blockchain data analysis.
 - [CoinGlass](https://coinglass.com/) - Provides data insights and metrics for the crypto market.
 - [Nansen](https://nansen.ai/) - Blockchain analytics platform for on-chain data.
 - [Glassnode](https://glassnode.com/) - On-chain market intelligence platform.
+
+### Web3 Product Analytics
+Product analytics services provide insights and data analytics for web3 product and marketing teams.
+
+- **[Formo](https://formo.com/)** - Product analytics for web3 product and marketing teams.
+- **[Cookie3](https://cookie3.com/)** - Your gateway to MarketingFi.
 
 ### Crypto Analytics and Dashboards
 Dashboards and tools for in-depth crypto analysis.
