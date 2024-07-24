@@ -1,6 +1,7 @@
 # Awesome Web3 Services
 
-A curated list of awesome Web3 services and tools for data analysts and Web3 professionals.
+## Introduction
+Welcome to the Awesome Web3 Services repository! This page is dedicated to providing a comprehensive list of Web3 services and tools that are useful for web3 problem solve and analytics.
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -17,9 +18,6 @@ A curated list of awesome Web3 services and tools for data analysts and Web3 pro
   - [Trading Analytics Platforms](#trading-analytics-platforms)
 - [Contribution](#contribution)
 - [License](#license)
-
-## Introduction
-Welcome to the Awesome Web3 Services repository! This page is dedicated to providing a comprehensive list of Web3 services and tools that are useful for data analysts and Web3 professionals.
 
 ## Categories
 
