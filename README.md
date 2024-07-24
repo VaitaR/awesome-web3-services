@@ -13,6 +13,7 @@ A curated list of awesome Web3 services and tools for data analysts and Web3 pro
   - [Crypto Analytics](#crypto-analytics)
   - [Specialized APIs](#specialized-apis)
   - [Oracles](#oracles)
+  - [Trading Analytics Platforms](#trading-analytics-platforms)
 - [Contribution](#contribution)
 - [License](#license)
 
@@ -78,6 +79,11 @@ Oracles provide off-chain data to smart contracts.
 - [Chainlink](https://chain.link/) - Decentralized oracle network to provide reliable data to smart contracts.
 - [Band Protocol](https://bandprotocol.com/) - Cross-chain data oracle platform.
 - [API3](https://api3.org/) - Decentralized APIs for Web3 without intermediaries.
+
+### Trading Analytics Platforms
+Platforms that provide insights, data analysis, and tools for trading cryptocurrencies.
+- [CoinGlass](https://coinglass.com/) - Provides data insights and metrics for the crypto market, including funding rates, open interest, and liquidations.
+- [RTT Resonance](https://rttresonance.com/) - Offers advanced analytics and trading signals for the cryptocurrency market.
 
 ## Contribution
 Contributions are welcome! Please read the [contribution guidelines](CONTRIBUTING.md) first.
