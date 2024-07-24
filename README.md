@@ -34,9 +34,10 @@ RPC services provide remote procedure call capabilities for interacting with blo
 - **[Awesome RPCs](https://github.com/arddluma/awesome-list-rpc-nodes-providers)** - More RPCs for ever chain you want
 
 
-### Indexers and Similar Services
+### Indexers
 Indexers provide organized and searchable access to blockchain data.
 - [The Graph](https://thegraph.com/) - Decentralized indexing protocol for querying blockchain data.
+- [Goldsky](https://goldsky.com/) - A data infrastructure platform for indexing and querying blockchain data efficiently.
 - [Sentio](https://sentio.xyz/) - A blockchain data indexing service for quick data access.
 
 ### Analytical Platforms
