@@ -21,9 +21,23 @@ Welcome to the Awesome Web3 Services repository! This page is dedicated to provi
 
 ### RPC Services
 RPC services provide remote procedure call capabilities for interacting with blockchain nodes.
-- [Infura](https://infura.io/) - A scalable and reliable API for Ethereum and IPFS.
-- [Alchemy](https://www.alchemy.com/) - Blockchain development platform with enhanced node infrastructure.
-- [QuickNode](https://www.quicknode.com/) - Global network of RPC nodes for Ethereum and other blockchains.
+
+- **[Infura](https://infura.io/)** - A scalable and reliable API for Ethereum and IPFS.
+
+- **[Alchemy](https://www.alchemy.com/)** - Blockchain development platform with enhanced node infrastructure.
+
+- **[QuickNode](https://www.quicknode.com/)** - Global network of RPC nodes for Ethereum and other blockchains.
+
+- **[Ankr](https://www.ankr.com/)** - Decentralized node infrastructure for deploying and managing blockchain nodes.
+
+- **[BlockDaemon](https://blockdaemon.com/)** - Node deployment and management service for blockchain networks.
+
+- **[Chainstack](https://chainstack.com/)** - Managed blockchain services for developers and enterprises.
+
+- **[Moralis](https://moralis.io/)** - Ultimate Web3 development platform with integrated APIs for blockchain interaction.
+
+- **[Pocket Network](https://www.pokt.network/)** - Decentralized network of blockchain nodes for API requests.
+
 
 ### Indexers and Similar Services
 Indexers provide organized and searchable access to blockchain data.
