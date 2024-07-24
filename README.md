@@ -9,7 +9,8 @@ A curated list of awesome Web3 services and tools for data analysts and Web3 pro
   - [Indexers and Similar Services](#indexers-and-similar-services)
   - [Analytical Platforms](#analytical-platforms)
   - [Web3 Product Analytics](#web3-product-analytics)
-  - [Crypto Analytics and Dashboards](#crypto-analytics-and-dashboards)
+  - [Crypto Dashboards](#crypto-dashboards)
+  - [Crypto Analytics](#crypto-analytics)
   - [Specialized APIs](#specialized-apis)
   - [Oracles](#oracles)
 - [Contribution](#contribution)
@@ -50,9 +51,12 @@ Product analytics services provide insights and data analytics for web3 product 
 - [Formo](https://formo.so/) - Product analytics for web3 product and marketing teams.
 - [Cookie3](https://cookie3.com/) - Your gateway to MarketingFi.
 
-### Crypto Analytics and Dashboards
-Dashboards and tools for in-depth crypto analysis.
+### Crypto Dashboards
+Tools for creating datavizes on ready onchain data.
 - [Dune](https://dune.com/) - Community-driven platform for blockchain data analysis and visualization.
+  
+### Crypto Analytics
+Services for in-depth crypto analysis.
 - [Messari](https://messari.io/) - Crypto research, data, and tools for institutional investors.
 - [CryptoQuant](https://cryptoquant.com/) - On-chain and market data analytics for crypto assets.
 
