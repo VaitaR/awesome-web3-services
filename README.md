@@ -1,7 +1,7 @@
 # Awesome Web3 Services
 
 ## Introduction
-Welcome to the Awesome Web3 Services repository! This page is dedicated to providing a comprehensive list of Web3 services and tools that are useful for web3 problem solve and analytics.
+Welcome to the Awesome Web3 Services repository! This page is dedicated to providing a comprehensive list of Web3 services, tools and solutions for various problems in the blockchain ecosystem.
 
 ## Table of Contents
 - [Introduction](#introduction)
