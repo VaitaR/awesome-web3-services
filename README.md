@@ -103,7 +103,8 @@ Multisig (multi-signature) wallets require multiple private keys to authorize a 
 - [Gnosis Safe](https://safe.global/) - A leading multisig wallet that securely manages digital assets with multiple signatories.
   
 ### KYC services 
-- [Sumsub](https://sumsub.com/) - Identity verification platform to secure the whole user journey 
+KYC (Know Your Customer) services help businesses verify the identity of their users, ensuring compliance with regulatory requirements and enhancing security.
+- [Sumsub](https://sumsub.com/) - offers comprehensive KYC and AML solutions, automating the verification process to ensure compliance and reduce fraud.
 
 ### Trading Analytics Platforms
 Platforms that provide insights, data analysis, and tools for trading cryptocurrencies.
