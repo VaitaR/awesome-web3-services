@@ -9,6 +9,7 @@ Welcome to the Awesome Web3 Services repository! This page is dedicated to provi
   - [RPC Services](#rpc-services)
   - [Indexers and Similar Services](#indexers-and-similar-services)
   - [Analytical Platforms](#analytical-platforms)
+  - [Onchain Databases](#onchain-data)
   - [Web3 Product Analytics](#web3-product-analytics)
   - [Crypto Dashboards](#crypto-dashboards)
   - [Crypto Analytics](#crypto-analytics)
@@ -50,6 +51,9 @@ These platforms offer tools and insights for blockchain data analysis.
 - [CoinGlass](https://coinglass.com/) - Provides data insights and metrics for the crypto market.
 - [Nansen](https://nansen.ai/) - Blockchain analytics platform for on-chain data.
 - [Glassnode](https://glassnode.com/) - On-chain market intelligence platform.
+
+### Onchain DataBases
+- [Bitquary](https://bitquery.io/) - Real-time & historical blockchain data via a versatile range of interfaces including GraphQl APIs, SQL, WebSockets, AWS, Google Cloud, etc.
 
 ### Web3 Product Analytics
 Product analytics services provide insights and data analytics for web3 product and marketing teams.
