@@ -17,6 +17,7 @@ Welcome to the Awesome Web3 Services repository! This page is dedicated to provi
   - [Oracles](#oracles)
   - [Blockchain Explorers](#blockchain-explorers)
   - [Decentralized Storage](#decentralized-storage)
+  - [Multisig](#multisig)
   - [KYC services](#kyc-services)
   - [Trading Analytics Platforms](#trading-analytics-platforms)
 - [Contribution](#contribution)
@@ -97,6 +98,10 @@ Services for decentralized file storage and data management.
 - [Arweave](https://www.arweave.org/) - Arweave is a decentralized storage network that provides permanent data storage by using a unique blockweave technology. It ensures that data remains accessible indefinitely without requiring continuous maintenance.
 - [Filecoin](https://filecoin.io/) - Filecoin is a decentralized storage network built on top of IPFS. It incentivizes users to rent out their unused hard drive space and provides a robust and efficient way to store large amounts of data securely and affordably.
 
+### Multisig
+Multisig (multi-signature) wallets require multiple private keys to authorize a transaction, enhancing security by requiring multiple parties to approve transactions.
+- [Gnosis Safe](https://safe.global/) - A leading multisig wallet that securely manages digital assets with multiple signatories.
+  
 ### KYC services 
 - [Sumsub](https://sumsub.com/) - Identity verification platform to secure the whole user journey 
 
