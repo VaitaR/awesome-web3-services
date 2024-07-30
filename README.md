@@ -55,6 +55,7 @@ These platforms offer tools and insights for blockchain data analysis.
 
 ### Onchain DataBases
 - [Bitquary](https://bitquery.io/) - Real-time & historical blockchain data via a versatile range of interfaces including GraphQl APIs, SQL, WebSockets, AWS, Google Cloud, etc.
+- [Transpose](https://www.transpose.io/) - Indexed real-time blockchain data
 
 ### Web3 Product Analytics
 Product analytics services provide insights and data analytics for web3 product and marketing teams.
