@@ -26,7 +26,7 @@ Welcome to the Awesome Web3 Services repository! This page is dedicated to provi
 
 ## Categories
 
-### RPC Services
+### RPC & Infrastructure Services 
 RPC services provide remote procedure call capabilities for interacting with blockchain nodes.
 - **[Ankr](https://www.ankr.com/)** - Decentralized node infrastructure for deploying and managing blockchain nodes.
 - **[Infura](https://infura.io/)** - A scalable and reliable API for Ethereum and IPFS.
@@ -37,6 +37,7 @@ RPC services provide remote procedure call capabilities for interacting with blo
 - **[Moralis](https://moralis.io/)** - Ultimate Web3 development platform with integrated APIs for blockchain interaction.
 - **[Pocket Network](https://www.pokt.network/)** - Decentralized network of blockchain nodes for API requests.
 - **[Awesome RPCs](https://github.com/arddluma/awesome-list-rpc-nodes-providers)** - More RPCs for ever chain you want
+- **[Covalent](https://www.covalenthq.com/) 
 
 
 ### Indexers
