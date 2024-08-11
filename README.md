@@ -18,6 +18,7 @@ Welcome to the Awesome Web3 Services repository! This page is dedicated to provi
   - [Decentralized Storage](#decentralized-storage)
   - [Multisig](#multisig)
   - [KYC services](#kyc-services)
+  - [Legal Solutions](#legal-solutions)
   - [AML](#aml)
   - [Payments](#payments)
   - [Trading Analytics Platforms](#trading-analytics-platforms)
@@ -59,6 +60,7 @@ These platforms offer tools and insights for blockchain data analysis.
 - [DeFi Lama](https://defillama.com/) - Decentralized finance analytics platform for tracking and comparing DeFi protocols and projects.
 - [Messari](https://messari.io/) - Crypto research, data, and tools for institutional investors.
 - [CryptoQuant](https://cryptoquant.com/) - On-chain and market data analytics for crypto assets.
+- [Chainanalysis](https://www.chainalysis.com/)
 
 ### Onchain DataBases
 - [Bitquary](https://bitquery.io/) - Real-time & historical blockchain data via a versatile range of interfaces including GraphQl APIs, SQL, WebSockets, AWS, Google Cloud, etc.
@@ -100,6 +102,7 @@ Services for decentralized file storage and data management.
 - [IPFS](https://ipfs.io/) - The InterPlanetary File System (IPFS) is a protocol and network designed to create a peer-to-peer method of storing and sharing hypermedia in a distributed file system. It aims to make the web faster, safer, and more open.
 - [Arweave](https://www.arweave.org/) - Arweave is a decentralized storage network that provides permanent data storage by using a unique blockweave technology. It ensures that data remains accessible indefinitely without requiring continuous maintenance.
 - [Filecoin](https://filecoin.io/) - Filecoin is a decentralized storage network built on top of IPFS. It incentivizes users to rent out their unused hard drive space and provides a robust and efficient way to store large amounts of data securely and affordably.
+- [Storj](https://www.storj.io/)
 
 ### Multisig
 Multisig (multi-signature) wallets require multiple private keys to authorize a transaction, enhancing security by requiring multiple parties to approve transactions.
@@ -108,6 +111,10 @@ Multisig (multi-signature) wallets require multiple private keys to authorize a 
 ### KYC services 
 KYC (Know Your Customer) services help businesses verify the identity of their users, ensuring compliance with regulatory requirements and enhancing security.
 - [Sumsub](https://sumsub.com/) - offers comprehensive KYC and AML solutions, automating the verification process to ensure compliance and reduce fraud.
+
+### Legal Solutions
+- [DocuSign](https://www.docusign.com/) - the main platform for signing legal contracts
+- [OpenLow](https://www.openlaw.io/) - platform that enables the creation of smart legal contracts
 
 ### AML
 - [Crystal](https://crystalintelligence.com/)
