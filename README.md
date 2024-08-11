@@ -81,6 +81,7 @@ APIs for accessing specific blockchain-related data.
 - [CoinGecko API](https://www.coingecko.com/en/api) - Cryptocurrency price, market data, and more.
 - [CryptoCompare API](https://min-api.cryptocompare.com/) - Provides cryptocurrency data and price feeds.
 - [Santiment API](https://api.santiment.net/) - On-chain, social media, and development activity data.
+- [Amberdata](https://www.amberdata.io/)
 
 ### Oracles
 Oracles provide off-chain data to smart contracts.
