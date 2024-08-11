@@ -19,6 +19,7 @@ Welcome to the Awesome Web3 Services repository! This page is dedicated to provi
   - [Multisig](#multisig)
   - [KYC services](#kyc-services)
   - [Legal Solutions](#legal-solutions)
+  - [DAO](#dao)
   - [AML](#aml)
   - [Payments](#payments)
   - [Trading Analytics Platforms](#trading-analytics-platforms)
@@ -115,6 +116,9 @@ KYC (Know Your Customer) services help businesses verify the identity of their u
 ### Legal Solutions
 - [DocuSign](https://www.docusign.com/) - the main platform for signing legal contracts
 - [OpenLow](https://www.openlaw.io/) - platform that enables the creation of smart legal contracts
+
+### DAO
+- [Aragon](https://aragon.org/) - platform that enables users to create and manage decentralized organizations
 
 ### AML
 - [Crystal](https://crystalintelligence.com/)
