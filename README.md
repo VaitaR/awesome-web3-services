@@ -6,7 +6,7 @@ Welcome to the Awesome Web3 Services repository! This page is dedicated to provi
 ## Table of Contents
 - [Introduction](#introduction)
 - [Categories](#categories)
-  - [RPC Services](#rpc-services)
+  - [RPC Services](#rpc-and-infrastructure-services)
   - [Indexers and Similar Services](#indexers-and-similar-services)
   - [Analytical Platforms](#analytical-platforms)
   - [Onchain Databases](#onchain-data)
@@ -27,7 +27,7 @@ Welcome to the Awesome Web3 Services repository! This page is dedicated to provi
 
 ## Categories
 
-### RPC & Infrastructure Services 
+### RPC and Infrastructure Services 
 RPC services provide remote procedure call capabilities for interacting with blockchain nodes.
 - **[Ankr](https://www.ankr.com/)** - Decentralized node infrastructure for deploying and managing blockchain nodes.
 - **[Infura](https://infura.io/)** - A scalable and reliable API for Ethereum and IPFS.
