@@ -19,6 +19,7 @@ Welcome to the Awesome Web3 Services repository! This page is dedicated to provi
   - [Multisig](#multisig)
   - [KYC services](#kyc-services)
   - [AML](#aml)
+  - [Payments](#payments)
   - [Trading Analytics Platforms](#trading-analytics-platforms)
 - [Contribution](#contribution)
 - [License](#license)
@@ -110,6 +111,10 @@ KYC (Know Your Customer) services help businesses verify the identity of their u
 
 ### AML
 - [Crystal](https://crystalintelligence.com/)
+- [Eliptic](https://www.elliptic.co/)
+
+### Payments
+- [Transak](https://transak.com/) - enable users to buy or sell crypto from your app.
 
 ### Trading Analytics Platforms
 Platforms that provide insights, data analysis, and tools for trading cryptocurrencies.
