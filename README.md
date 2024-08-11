@@ -47,6 +47,7 @@ Indexers provide organized and searchable access to blockchain data.
 - [Alchemy Subgraphs](https://www.alchemy.com/subgraphs) - A service provided by Alchemy for creating and managing subgraphs to index blockchain data.
 - [0xGraph](https://www.0xgraph.xyz/)
 
+
 ### Analytical Platforms
 These platforms offer tools and insights for blockchain data analysis.
 - [CryptoRank](https://cryptorank.io/) - A comprehensive platform for crypto market analysis.
@@ -79,6 +80,7 @@ APIs for accessing specific blockchain-related data.
 - [CryptoCompare API](https://min-api.cryptocompare.com/) - Provides cryptocurrency data and price feeds.
 - [Santiment API](https://api.santiment.net/) - On-chain, social media, and development activity data.
 - [Amberdata](https://www.amberdata.io/)
+- [Chainsight](https://chainsight.com/) - Offers universal on-chain data access across several blockchains
 
 ### Oracles
 Oracles provide off-chain data to smart contracts.
