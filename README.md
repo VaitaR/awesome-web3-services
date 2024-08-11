@@ -12,7 +12,6 @@ Welcome to the Awesome Web3 Services repository! This page is dedicated to provi
   - [Onchain Databases](#onchain-data)
   - [Web3 Product Analytics](#web3-product-analytics)
   - [Crypto Dashboards](#crypto-dashboards)
-  - [Crypto Analytics](#crypto-analytics)
   - [Specialized APIs](#specialized-apis)
   - [Oracles](#oracles)
   - [Blockchain Explorers](#blockchain-explorers)
@@ -54,6 +53,10 @@ These platforms offer tools and insights for blockchain data analysis.
 - [CoinGlass](https://coinglass.com/) - Provides data insights and metrics for the crypto market.
 - [Nansen](https://nansen.ai/) - Blockchain analytics platform for on-chain data.
 - [Glassnode](https://glassnode.com/) - On-chain market intelligence platform.
+- [Token Terminal](https://tokenterminal.com/) - Financial metrics and KPIs for crypto projects, providing insights into project performance and trends.
+- [DeFi Lama](https://defillama.com/) - Decentralized finance analytics platform for tracking and comparing DeFi protocols and projects.
+- [Messari](https://messari.io/) - Crypto research, data, and tools for institutional investors.
+- [CryptoQuant](https://cryptoquant.com/) - On-chain and market data analytics for crypto assets.
 
 ### Onchain DataBases
 - [Bitquary](https://bitquery.io/) - Real-time & historical blockchain data via a versatile range of interfaces including GraphQl APIs, SQL, WebSockets, AWS, Google Cloud, etc.
@@ -70,13 +73,6 @@ Tools for creating dataviz dashboards on ready on-chain data.
 - [Footprint](https://www.footprint.network/) - Comprehensive analytics platform with customizable dashboards for visualizing on-chain data.
 - [Flipside Crypto](https://flipsidecrypto.xyz/) - Blockchain analytics platform providing insights and visualizations from on-chain data.
   
-### Crypto Analytics
-Services for in-depth crypto analysis.
-- [Token Terminal](https://tokenterminal.com/) - Financial metrics and KPIs for crypto projects, providing insights into project performance and trends.
-- [DeFi Lama](https://defillama.com/) - Decentralized finance analytics platform for tracking and comparing DeFi protocols and projects.
-- [Messari](https://messari.io/) - Crypto research, data, and tools for institutional investors.
-- [CryptoQuant](https://cryptoquant.com/) - On-chain and market data analytics for crypto assets.
-
 ### Specialized APIs
 APIs for accessing specific blockchain-related data.
 - [CoinGecko API](https://www.coingecko.com/en/api) - Cryptocurrency price, market data, and more.
