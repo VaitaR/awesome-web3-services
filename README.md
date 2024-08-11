@@ -19,6 +19,7 @@ Welcome to the Awesome Web3 Services repository! This page is dedicated to provi
   - [Decentralized Storage](#decentralized-storage)
   - [Multisig](#multisig)
   - [KYC services](#kyc-services)
+  - [AML] (#aml)
   - [Trading Analytics Platforms](#trading-analytics-platforms)
 - [Contribution](#contribution)
 - [License](#license)
@@ -106,6 +107,9 @@ Multisig (multi-signature) wallets require multiple private keys to authorize a 
 ### KYC services 
 KYC (Know Your Customer) services help businesses verify the identity of their users, ensuring compliance with regulatory requirements and enhancing security.
 - [Sumsub](https://sumsub.com/) - offers comprehensive KYC and AML solutions, automating the verification process to ensure compliance and reduce fraud.
+
+### AML
+- [Crystal](https://crystalintelligence.com/)
 
 ### Trading Analytics Platforms
 Platforms that provide insights, data analysis, and tools for trading cryptocurrencies.
