@@ -37,7 +37,7 @@ RPC services provide remote procedure call capabilities for interacting with blo
 - **[Moralis](https://moralis.io/)** - Ultimate Web3 development platform with integrated APIs for blockchain interaction.
 - **[Pocket Network](https://www.pokt.network/)** - Decentralized network of blockchain nodes for API requests.
 - **[Awesome RPCs](https://github.com/arddluma/awesome-list-rpc-nodes-providers)** - More RPCs for ever chain you want
-- **[Covalent](https://www.covalenthq.com/) 
+- **[Covalent](https://www.covalenthq.com/)**
 
 
 ### Indexers
