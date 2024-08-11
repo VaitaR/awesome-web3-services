@@ -19,7 +19,7 @@ Welcome to the Awesome Web3 Services repository! This page is dedicated to provi
   - [Decentralized Storage](#decentralized-storage)
   - [Multisig](#multisig)
   - [KYC services](#kyc-services)
-  - [AML] (#aml)
+  - [AML](#aml)
   - [Trading Analytics Platforms](#trading-analytics-platforms)
 - [Contribution](#contribution)
 - [License](#license)
