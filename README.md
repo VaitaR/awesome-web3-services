@@ -6,8 +6,8 @@ Welcome to the Awesome Web3 Services repository! This page is dedicated to provi
 ## Table of Contents
 - [Introduction](#introduction)
 - [Categories](#categories)
-  - [RPC Services](#rpc-and-infrastructure-services)
-  - [Indexers and Similar Services](#indexers-and-similar-services)
+  - [RPC & Infrastructure Services](#rpc-and-infrastructure-services)
+  - [Indexers Services](#indexers-and-similar-services)
   - [Analytical Platforms](#analytical-platforms)
   - [Onchain Databases](#onchain-data)
   - [Web3 Product Analytics](#web3-product-analytics)
