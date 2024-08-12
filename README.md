@@ -25,6 +25,7 @@ Welcome to the Awesome Web3 Services repository! This page is dedicated to provi
   - [Payments](#payments)
   - [Trading Analytics Platforms](#trading-analytics-platforms)
   - [Dex analytics](#dex-analytics)
+  - [Other](#other)
 - [Contribution](#contribution)
 - [License](#license)
 
@@ -145,6 +146,10 @@ Platforms that provide insights, data analysis, and tools for trading cryptocurr
 
 ### DEX Analytics
 - [DexScreener](https://dexscreener.com/) - the largest integrator of on-chain trading
+
+### Other 
+product block is unclassified for the time being
+- [Bankless](https://www.bankless.com/)
 
 ## Contribution
 Contributions are welcome! Please read the [contribution guidelines](CONTRIBUTING.md) first.
