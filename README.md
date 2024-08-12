@@ -47,7 +47,7 @@ RPC services provide remote procedure call capabilities for interacting with blo
 - **[Covalent](https://www.covalenthq.com/)**
 
 
-### Indexers
+### Indexers Services
 Indexers provide organized and searchable access to blockchain data.
 - [The Graph](https://thegraph.com/) - Decentralized indexing protocol for querying blockchain data.
 - [Goldsky](https://goldsky.com/) - A data infrastructure platform for indexing and querying blockchain data efficiently.
