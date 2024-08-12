@@ -13,6 +13,7 @@ Welcome to the Awesome Web3 Services repository! This page is dedicated to provi
   - [Web3 Product Analytics](#web3-product-analytics)
   - [Crypto Dashboards](#crypto-dashboards)
   - [Specialized APIs](#specialized-apis)
+  - [NFT data](#nft-data)
   - [Oracles](#oracles)
   - [Blockchain Explorers](#blockchain-explorers)
   - [Decentralized Storage](#decentralized-storage)
@@ -92,6 +93,9 @@ APIs for accessing specific blockchain-related data.
 - [Amberdata](https://www.amberdata.io/)
 - [Chainsight](https://chainsight.com/) - Offers universal on-chain data access across several blockchains
 - [CoinAPI](https://www.coinapi.io/)
+
+### NFT Data
+- [SimpleHash](https://simplehash.com/)
 
 ### Oracles
 Oracles provide off-chain data to smart contracts.
