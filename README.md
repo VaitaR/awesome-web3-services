@@ -85,11 +85,12 @@ Tools for creating dataviz dashboards on ready on-chain data.
   
 ### Specialized APIs
 APIs for accessing specific blockchain-related data.
-- [CoinGecko API](https://www.coingecko.com/en/api) - Cryptocurrency price, market data, and more.
-- [CryptoCompare API](https://min-api.cryptocompare.com/) - Provides cryptocurrency data and price feeds.
-- [Santiment API](https://api.santiment.net/) - On-chain, social media, and development activity data.
+- [CoinGecko](https://www.coingecko.com/en/api) - Cryptocurrency price, market data, and more.
+- [CryptoCompare](https://min-api.cryptocompare.com/) - Provides cryptocurrency data and price feeds.
+- [Santiment](https://api.santiment.net/) - On-chain, social media, and development activity data.
 - [Amberdata](https://www.amberdata.io/)
 - [Chainsight](https://chainsight.com/) - Offers universal on-chain data access across several blockchains
+- [CoinAPI](https://www.coinapi.io/)
 
 ### Oracles
 Oracles provide off-chain data to smart contracts.
