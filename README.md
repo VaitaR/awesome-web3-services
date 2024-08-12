@@ -64,6 +64,7 @@ These platforms offer tools and insights for blockchain data analysis.
 - [Glassnode](https://glassnode.com/) - On-chain market intelligence platform.
 - [Token Terminal](https://tokenterminal.com/) - Financial metrics and KPIs for crypto projects, providing insights into project performance and trends.
 - [DeFi Lama](https://defillama.com/) - Decentralized finance analytics platform for tracking and comparing DeFi protocols and projects.
+- [DAPPRadar](https://dappradar.com/)
 - [Messari](https://messari.io/) - Crypto research, data, and tools for institutional investors.
 - [CryptoQuant](https://cryptoquant.com/) - On-chain and market data analytics for crypto assets.
 - [Chainanalysis](https://www.chainalysis.com/)
