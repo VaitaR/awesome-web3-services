@@ -56,6 +56,7 @@ Indexers provide organized and searchable access to blockchain data.
 These platforms offer tools and insights for blockchain data analysis.
 - [CryptoRank](https://cryptorank.io/) - A comprehensive platform for crypto market analysis.
 - [CoinGlass](https://coinglass.com/) - Provides data insights and metrics for the crypto market.
+- [Coinalyze](https://coinalyze.net/)
 - [Nansen](https://nansen.ai/) - Blockchain analytics platform for on-chain data.
 - [Glassnode](https://glassnode.com/) - On-chain market intelligence platform.
 - [Token Terminal](https://tokenterminal.com/) - Financial metrics and KPIs for crypto projects, providing insights into project performance and trends.
