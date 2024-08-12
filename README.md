@@ -118,6 +118,7 @@ Multisig (multi-signature) wallets require multiple private keys to authorize a 
 ### KYC services 
 KYC (Know Your Customer) services help businesses verify the identity of their users, ensuring compliance with regulatory requirements and enhancing security.
 - [Sumsub](https://sumsub.com/) - offers comprehensive KYC and AML solutions, automating the verification process to ensure compliance and reduce fraud.
+- [Onfido](https://onfido.com/)
 
 ### Deanonymization
 - [Arkham](https://www.arkhamintelligence.com/) - See the people and companies behind blockchain activity
