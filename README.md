@@ -23,6 +23,7 @@ Welcome to the Awesome Web3 Services repository! This page is dedicated to provi
   - [AML](#aml)
   - [Payments](#payments)
   - [Trading Analytics Platforms](#trading-analytics-platforms)
+  - [Dex analytics](#dex-analytics)
 - [Contribution](#contribution)
 - [License](#license)
 
@@ -132,6 +133,9 @@ KYC (Know Your Customer) services help businesses verify the identity of their u
 Platforms that provide insights, data analysis, and tools for trading cryptocurrencies.
 - [CoinGlass](https://coinglass.com/) - Provides data insights and metrics for the crypto market, including funding rates, open interest, and liquidations.
 - [RTT Resonance](https://rttresonance.com/) - Offers advanced analytics and trading signals for the cryptocurrency market.
+
+### DEX Analytics
+- [DexScreener](https://dexscreener.com/) - the largest integrator of on-chain trading
 
 ## Contribution
 Contributions are welcome! Please read the [contribution guidelines](CONTRIBUTING.md) first.
