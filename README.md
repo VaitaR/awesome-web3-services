@@ -64,6 +64,7 @@ These platforms offer tools and insights for blockchain data analysis.
 - [Messari](https://messari.io/) - Crypto research, data, and tools for institutional investors.
 - [CryptoQuant](https://cryptoquant.com/) - On-chain and market data analytics for crypto assets.
 - [Chainanalysis](https://www.chainalysis.com/)
+- [CryptoQuant](https://cryptoquant.com)
 
 ### Onchain DataBases
 - [Bitquary](https://bitquery.io/) - Real-time & historical blockchain data via a versatile range of interfaces including GraphQl APIs, SQL, WebSockets, AWS, Google Cloud, etc.
