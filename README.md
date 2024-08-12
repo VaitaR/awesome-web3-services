@@ -161,6 +161,7 @@ Platforms that provide insights, data analysis, and tools for trading cryptocurr
 ### Other 
 product block is unclassified for the time being
 - [Bankless](https://www.bankless.com/)
+- [OpenBlocks](https://www.openblocklabs.com/) - OpenBlock is an all-in-one operating system to model, track, and optimize crypto incentive operations.
 
 ## Contribution
 Contributions are welcome! Please read the [contribution guidelines](CONTRIBUTING.md) first.
