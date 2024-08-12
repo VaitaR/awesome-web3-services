@@ -97,6 +97,7 @@ APIs for accessing specific blockchain-related data.
 
 ### NFT Data
 - [SimpleHash](https://simplehash.com/)
+- [Blue](https://blur.io/)
 
 ### Oracles
 Oracles provide off-chain data to smart contracts.
