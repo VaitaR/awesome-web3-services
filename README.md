@@ -141,7 +141,8 @@ KYC (Know Your Customer) services help businesses verify the identity of their u
 - [Eliptic](https://www.elliptic.co/)
 
 ### Payments
-- [Transak](https://transak.com/) - enable users to buy or sell crypto from your app.
+- [Transak](https://transak.com/) - enable users to buy or sell crypto from your app
+- [Coinflow](https://coinflow.cash/)
 
 ### Trading Analytics Platforms
 Platforms that provide insights, data analysis, and tools for trading cryptocurrencies.
