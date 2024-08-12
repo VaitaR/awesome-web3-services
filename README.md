@@ -66,6 +66,7 @@ These platforms offer tools and insights for blockchain data analysis.
 - [CryptoQuant](https://cryptoquant.com/) - On-chain and market data analytics for crypto assets.
 - [Chainanalysis](https://www.chainalysis.com/)
 - [CryptoQuant](https://cryptoquant.com)
+- [Bubblemaps](https://app.bubblemaps.io) - first supply auditing tool for DeFi tokens and NFTs. Bubbles DataViz make on-chain data easy to understand.
 
 ### Onchain DataBases
 - [Bitquary](https://bitquery.io/) - Real-time & historical blockchain data via a versatile range of interfaces including GraphQl APIs, SQL, WebSockets, AWS, Google Cloud, etc.
