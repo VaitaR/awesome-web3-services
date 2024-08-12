@@ -14,6 +14,7 @@ Welcome to the Awesome Web3 Services repository! This page is dedicated to provi
   - [Crypto Dashboards](#crypto-dashboards)
   - [Specialized APIs](#specialized-apis)
   - [NFT data](#nft-data)
+  - [Staking data](#staking-data)
   - [Oracles](#oracles)
   - [Blockchain Explorers](#blockchain-explorers)
   - [Decentralized Storage](#decentralized-storage)
@@ -98,6 +99,9 @@ APIs for accessing specific blockchain-related data.
 ### NFT Data
 - [SimpleHash](https://simplehash.com/)
 - [Blue](https://blur.io/)
+
+### Staking Data
+- [SrakingRewards](https://www.stakingrewards.com/)
 
 ### Oracles
 Oracles provide off-chain data to smart contracts.
