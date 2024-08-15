@@ -96,6 +96,7 @@ APIs for accessing specific blockchain-related data.
 - [Amberdata](https://www.amberdata.io/)
 - [Chainsight](https://chainsight.com/) - Offers universal on-chain data access across several blockchains
 - [CoinAPI](https://www.coinapi.io/)
+- [Mobula](https://mobula.io/)
 
 ### NFT Data
 - [SimpleHash](https://simplehash.com/)
