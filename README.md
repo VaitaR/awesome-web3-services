@@ -166,6 +166,7 @@ product block is unclassified for the time being
 - [Bankless](https://www.bankless.com/)
 - [OpenBlocks](https://www.openblocklabs.com/) - OpenBlock is an all-in-one operating system to model, track, and optimize crypto incentive operations.
 - [DeBank](https://debank.com/) - tracking of user funds on many chaines and in defi
+- [Tokensoft](https://www.tokensoft.io/) - helping projects launch and manage successful community events
 
 ## Contribution
 Contributions are welcome! Please read the [contribution guidelines](CONTRIBUTING.md) first.
