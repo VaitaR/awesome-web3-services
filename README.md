@@ -159,12 +159,13 @@ Platforms that provide insights, data analysis, and tools for trading cryptocurr
 
 ### DEX Analytics
 - [DexScreener](https://dexscreener.com/) - the largest integrator of on-chain trading
-- [Geckoterminal](https://www.geckoterminal.com/) 
+- [Geckoterminal](https://www.geckoterminal.com/) - coingecko for dexs
 
 ### Other 
 product block is unclassified for the time being
 - [Bankless](https://www.bankless.com/)
 - [OpenBlocks](https://www.openblocklabs.com/) - OpenBlock is an all-in-one operating system to model, track, and optimize crypto incentive operations.
+- [DeBank](https://debank.com/) - tracking of user funds on many chanes and in defi
 
 ## Contribution
 Contributions are welcome! Please read the [contribution guidelines](CONTRIBUTING.md) first.
