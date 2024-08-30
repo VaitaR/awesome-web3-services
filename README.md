@@ -45,6 +45,7 @@ RPC services provide remote procedure call capabilities for interacting with blo
 - **[Pocket Network](https://www.pokt.network/)** - Decentralized network of blockchain nodes for API requests.
 - **[Awesome RPCs](https://github.com/arddluma/awesome-list-rpc-nodes-providers)** - More RPCs for ever chain you want
 - **[Covalent](https://www.covalenthq.com/)**
+- **[dRPC](https://drpc.org/)**
 
 
 ### Indexers Services
@@ -168,6 +169,7 @@ product block is unclassified for the time being
 - [DeBank](https://debank.com/) - tracking of user funds on many chaines and in defi
 - [Tokensoft](https://www.tokensoft.io/) - helping projects launch and manage successful community events
 - [Artemis](https://www.artemis.xyz/) - Onchain metrics and data for crypto
+- [simStudio](https://sim.io/) 
 
 ## Contribution
 Contributions are welcome! Please read the [contribution guidelines](CONTRIBUTING.md) first.
