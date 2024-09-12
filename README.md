@@ -114,6 +114,7 @@ Oracles provide off-chain data to smart contracts.
 - [Chainlink](https://chain.link/) - Decentralized oracle network to provide reliable data to smart contracts.
 - [Band Protocol](https://bandprotocol.com/) - Cross-chain data oracle platform.
 - [API3](https://api3.org/) - Decentralized APIs for Web3 without intermediaries.
+- [Pyth](https://www.pyth.network/) - Pyth supports over 550 real-time data feeds across crypto, equities, ETFs, FX pairs, and commodities
 
 ### Blockchain Explorers
 Blockchain explorers provide detailed information and insights into blockchain transactions, addresses, blocks, and more.
