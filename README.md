@@ -47,6 +47,7 @@ RPC services provide remote procedure call capabilities for interacting with blo
 - **[Covalent](https://www.covalenthq.com/)**
 - **[dRPC](https://drpc.org/)**
 - **[Tenderly](https://tenderly.co/)** - RPCs, Web3 Infrastructure, Monitoring, Analytics
+- **[Flare](https://api-portal.flare.network/apis)** - It looks like provides free RPCs for some chains (SOL, AVAX, FIL ...)
 
 
 ### Indexers Services
