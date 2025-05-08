@@ -76,7 +76,8 @@ These platforms offer tools and insights for blockchain data analysis.
 - [Bubblemaps](https://app.bubblemaps.io) - first supply auditing tool for DeFi tokens and NFTs. Bubbles DataViz make on-chain data easy to understand.
 - [Stack](https://stack.money/) - simple tracker
 - [Chainalysis](https://www.chainalysis.com/)
-- [Elementus](https://www.elementus.io/) 
+- [Elementus](https://www.elementus.io/)
+- [Allium](https://www.allium.so/) - a ready-to-use data platform to research blockchain data with an AI assistant. BTC, SUI, and Solana on it.
 
 ### Onchain DataBases
 - [Bitquary](https://bitquery.io/) - Real-time & historical blockchain data via a versatile range of interfaces including GraphQl APIs, SQL, WebSockets, AWS, Google Cloud, etc.
