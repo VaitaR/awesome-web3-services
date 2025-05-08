@@ -54,7 +54,7 @@ RPC services provide remote procedure call capabilities for interacting with blo
 Indexers provide organized and searchable access to blockchain data.
 - [The Graph](https://thegraph.com/) - Decentralized indexing protocol for querying blockchain data.
 - [Goldsky](https://goldsky.com/) - A data infrastructure platform for indexing and querying blockchain data efficiently.
-- [Sentio](https://sentio.xyz/) - A blockchain data indexing service for quick data access.
+- [Sentio](https://sentio.xyz/) - A blockchain data indexing service with any TypeScript code tracking options.
 - [Alchemy Subgraphs](https://www.alchemy.com/subgraphs) - A service provided by Alchemy for creating and managing subgraphs to index blockchain data.
 - [0xGraph](https://www.0xgraph.xyz/)
 
@@ -124,6 +124,7 @@ Blockchain explorers provide detailed information and insights into blockchain t
 - [BlockScout](https://blockscout.com/) - An open-source blockchain explorer that supports multiple Ethereum-based networks.
 - [RouteScan](https://routescan.io/) - unified explorerfor over 43 blockchains
 - [OkLink](https://www.oklink.com/) - a lot of unique APIs except other explorers, but standard rpc api is not completely standard
+- [L2scan](https://babylon.l2scan.co/) - blockchain explorer for the Babylon Chain
 
 ### Decentralized Storage
 Services for decentralized file storage and data management.
@@ -169,10 +170,10 @@ Platforms that provide insights, data analysis, and tools for trading cryptocurr
 - [Geckoterminal](https://www.geckoterminal.com/) - coingecko for dexs
 
 ### Other 
-product block is unclassified for the time being
+Product block is unclassified for the time being
 - [Bankless](https://www.bankless.com/)
 - [OpenBlocks](https://www.openblocklabs.com/) - OpenBlock is an all-in-one operating system to model, track, and optimize crypto incentive operations.
-- [DeBank](https://debank.com/) - tracking of user funds on many chaines and in defi
+- [DeBank](https://debank.com/) - tracking of user funds and defi poistions on many chains in one interface
 - [Tokensoft](https://www.tokensoft.io/) - helping projects launch and manage successful community events
 - [Artemis](https://www.artemis.xyz/) - Onchain metrics and data for crypto
 - [simStudio](https://sim.io/) 
