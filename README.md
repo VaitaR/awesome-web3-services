@@ -125,6 +125,7 @@ Blockchain explorers provide detailed information and insights into blockchain t
 - [RouteScan](https://routescan.io/) - unified explorerfor over 43 blockchains
 - [OkLink](https://www.oklink.com/) - a lot of unique APIs except other explorers, but standard rpc api is not completely standard
 - [L2scan](https://babylon.l2scan.co/) - blockchain explorer for the Babylon Chain
+- [MintScan](https://www.mintscan.io/) - scan for Cosmos ecosystem and chains on stack
 
 ### Decentralized Storage
 Services for decentralized file storage and data management.
