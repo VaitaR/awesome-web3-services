@@ -177,6 +177,7 @@ Product block is unclassified for the time being
 - [DeBank](https://debank.com/) - tracking of user funds and defi poistions on many chains in one interface
 - [Tokensoft](https://www.tokensoft.io/) - helping projects launch and manage successful community events
 - [Artemis](https://www.artemis.xyz/) - Onchain metrics and data for crypto
+- [TwitterScore](https://twitterscore.io/) - analytics platform for evaluating the popularity of crypto projects on X (Twitter).
 - [simStudio](https://sim.io/) 
 
 ## Contribution
