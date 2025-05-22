@@ -172,11 +172,11 @@ Platforms that provide insights, data analysis, and tools for trading cryptocurr
 
 ### Other 
 Product block is unclassified for the time being
-- [Bankless](https://www.bankless.com/)
+- [Bankless](https://www.bankless.com/) - great tool to check current address defi positions and assets on EVM-chain in one place.
 - [OpenBlocks](https://www.openblocklabs.com/) - OpenBlock is an all-in-one operating system to model, track, and optimize crypto incentive operations.
-- [DeBank](https://debank.com/) - tracking of user funds and defi poistions on many chains in one interface
-- [Tokensoft](https://www.tokensoft.io/) - helping projects launch and manage successful community events
-- [Artemis](https://www.artemis.xyz/) - Onchain metrics and data for crypto
+- [DeBank](https://debank.com/) - tracking of user funds and defi poistions on many chains in one interface.
+- [Tokensoft](https://www.tokensoft.io/) - helping projects launch and manage successful community events.
+- [Artemis](https://www.artemis.xyz/) - Onchain metrics and data for crypto.
 - [TwitterScore](https://twitterscore.io/) - analytics platform for evaluating the popularity of crypto projects on X (Twitter).
 - [simStudio](https://sim.io/) 
 
