@@ -178,6 +178,7 @@ Product block is unclassified for the time being
 - [Tokensoft](https://www.tokensoft.io/) - helping projects launch and manage successful community events.
 - [Artemis](https://www.artemis.xyz/) - Onchain metrics and data for crypto.
 - [TwitterScore](https://twitterscore.io/) - analytics platform for evaluating the popularity of crypto projects on X (Twitter).
+- [Axiom](https://axiom.trade/) - trading platform with on-chain metrics.
 - [simStudio](https://sim.io/) 
 
 ## Contribution
