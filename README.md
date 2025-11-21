@@ -179,7 +179,8 @@ Product block is unclassified for the time being
 - [Artemis](https://www.artemis.xyz/) - Onchain metrics and data for crypto.
 - [TwitterScore](https://twitterscore.io/) - analytics platform for evaluating the popularity of crypto projects on X (Twitter).
 - [Axiom](https://axiom.trade/) - trading platform with on-chain metrics.
-- [simStudio](https://sim.io/) 
+- [simStudio](https://sim.io/)
+- [CryptoAPI](https://cryptoapis.io/)
 
 ## Contribution
 Contributions are welcome! Please read the [contribution guidelines](CONTRIBUTING.md) first.
