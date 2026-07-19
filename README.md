@@ -103,6 +103,7 @@ APIs for accessing specific blockchain-related data.
 - [Chainsight](https://chainsight.com/) - Offers universal on-chain data access across several blockchains
 - [CoinAPI](https://www.coinapi.io/)
 - [Mobula](https://mobula.io/)
+- [GenTech x402 Gateway](https://api.gentechlabs.net) - Pay-per-call API gateway with 16 x402 endpoints across 6 chains for AI agents, game deals, and on-chain data.
 
 ### NFT Data
 - [SimpleHash](https://simplehash.com/)
