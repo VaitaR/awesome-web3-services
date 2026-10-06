@@ -38,6 +38,7 @@ RPC services provide remote procedure call capabilities for interacting with blo
 - **[Ankr](https://www.ankr.com/)** - Decentralized node infrastructure for deploying and managing blockchain nodes.
 - **[Infura](https://infura.io/)** - A scalable and reliable API for Ethereum and IPFS.
 - **[Alchemy](https://www.alchemy.com/)** - Blockchain development platform with enhanced node infrastructure.
+- **[LYFTIUM](https://www.lyftium.com)** - Ethereum Mainnet JSON-RPC, priced in requests per minute (`X-Api-Key` header). Endpoint: https://eth-mainnet-rpc.lyftium.com
 - **[QuickNode](https://www.quicknode.com/)** - Global network of RPC nodes for Ethereum and other blockchains.
 - **[BlockDaemon](https://blockdaemon.com/)** - Node deployment and management service for blockchain networks.
 - **[Chainstack](https://chainstack.com/)** - Managed blockchain services for developers and enterprises.
@@ -187,4 +188,3 @@ Contributions are welcome! Please read the [contribution guidelines](CONTRIBUTIN
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
