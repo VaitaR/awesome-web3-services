@@ -169,6 +169,7 @@ Platforms that provide insights, data analysis, and tools for trading cryptocurr
 ### DEX Analytics
 - [DexScreener](https://dexscreener.com/) - the largest integrator of on-chain trading
 - [Geckoterminal](https://www.geckoterminal.com/) - coingecko for dexs
+- [HostDeFi](https://hostdefi.com/) - non-custodial DEX aggregator (Solana + EVM) with a free A+–F token-safety scanner; keyless REST API and MCP endpoint
 
 ### Other 
 Product block is unclassified for the time being
