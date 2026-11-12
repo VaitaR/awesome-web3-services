@@ -169,6 +169,7 @@ Platforms that provide insights, data analysis, and tools for trading cryptocurr
 ### DEX Analytics
 - [DexScreener](https://dexscreener.com/) - the largest integrator of on-chain trading
 - [Geckoterminal](https://www.geckoterminal.com/) - coingecko for dexs
+- [MadeOnSol](https://madeonsol.com/api-docs) - DEX trade data and wallet activity on Solana and Robinhood Chain via REST and WebSockets.
 
 ### Other 
 Product block is unclassified for the time being
