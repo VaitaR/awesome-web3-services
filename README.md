@@ -46,6 +46,7 @@ RPC services provide remote procedure call capabilities for interacting with blo
 - **[Awesome RPCs](https://github.com/arddluma/awesome-list-rpc-nodes-providers)** - More RPCs for ever chain you want
 - **[Covalent](https://www.covalenthq.com/)**
 - **[dRPC](https://drpc.org/)**
+- **[RouteMesh](https://routeme.sh/)** - Managed multi-provider RPC with automatic failover, low-latency routing, and USD pay-as-you-go pricing per method.
 - **[Tenderly](https://tenderly.co/)** - RPCs, Web3 Infrastructure, Monitoring, Analytics
 - **[Flare](https://api-portal.flare.network/apis)** - It looks like provides free RPCs for some chains (SOL, AVAX, FIL ...)
 
